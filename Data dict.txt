@@ -13,3 +13,17 @@ Each data file includes the following columns:
 § If: Positive-sequence estimated current frequency.
 § Vabc: Positive-sequence estimated voltage magnitude.
 § Vf: Positive-sequence estimated vurrent frequency.
+
+
+
+§Label Data :- 
+Structure
+
+GPVS-Faults data files are labelled as “Fxy”, where: 
+	x∈{0,1,…,7} represents the fault scenario:
+		'0' is a fault-free experiment. 
+		'1',…,'7' are the 7 types of faults.
+	y∈{'L','M'} is the operation mode: 
+		'L' is Limited power mode (IPPT)
+		'M' is Maximum power mode (MPPT)
+e.g. “F4M” is fault F4 in MPPT mode, “F1L” is fault F1 in IPPT mode. 
