@@ -5,7 +5,8 @@
 
 ## Code and Resources Used :
 
-* __Python Version:__ 3.9
+* __Python Version:__ 3.9.12
+
 
 * __Packages:__ pandas, numpy, matplotlib, seaborn, sklearn.
 
