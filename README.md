@@ -1,6 +1,9 @@
 <h1 align="center">Solar Panel Failure Prediction</h1>
 
 
+
+
+
 ![image](https://user-images.githubusercontent.com/108168115/214290003-75a39df9-87c6-41ae-8d5f-1f85da451637.png)
 
 ## Code and Resources Used :
@@ -8,10 +11,18 @@
 * __Python Version:__ 3.9.12
 
 
-* __Packages:__ pandas, numpy, matplotlib, seaborn, sklearn.
+* __Packages:__ pandas, numpy, matplotlib, seaborn, sklearn 1.1.2 .
 
-* __Requirements:__  `!pip install pandas`
-`!pip install numpy` `!pip install matplotlib` `!pip install seaborn` `!pip install scikit-learn`
+* __Requirements:__  
+ * `!pip install pandas`
+ 
+ * `!pip install numpy`
+ 
+ * `!pip install matplotlib`
+ 
+ * `!pip install seaborn`
+
+* `!pip install scikit-learn`
 
 
 ### Dataset :
